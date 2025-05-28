@@ -1,3 +1,6 @@
 [submodule "qr-code-component"]
 	path = qr-code-component
 	url = https://github.com/maurogonzalezdev/qr-code-component
+[submodule "notifications-page"]
+	path = notifications-page
+	url = https://github.com/maurogonzalezdev/notifications-page.git
